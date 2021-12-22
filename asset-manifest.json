@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JustAlex322/learnReactm/static/css/main.63f24810.chunk.css",
+    "main.js": "/JustAlex322/learnReactm/static/js/main.ccf888a6.chunk.js",
+    "main.js.map": "/JustAlex322/learnReactm/static/js/main.ccf888a6.chunk.js.map",
+    "runtime-main.js": "/JustAlex322/learnReactm/static/js/runtime-main.39618a19.js",
+    "runtime-main.js.map": "/JustAlex322/learnReactm/static/js/runtime-main.39618a19.js.map",
+    "static/js/2.4f41db85.chunk.js": "/JustAlex322/learnReactm/static/js/2.4f41db85.chunk.js",
+    "static/js/2.4f41db85.chunk.js.map": "/JustAlex322/learnReactm/static/js/2.4f41db85.chunk.js.map",
+    "static/js/3.37b7fbeb.chunk.js": "/JustAlex322/learnReactm/static/js/3.37b7fbeb.chunk.js",
+    "static/js/3.37b7fbeb.chunk.js.map": "/JustAlex322/learnReactm/static/js/3.37b7fbeb.chunk.js.map",
+    "index.html": "/JustAlex322/learnReactm/index.html",
+    "static/css/main.63f24810.chunk.css.map": "/JustAlex322/learnReactm/static/css/main.63f24810.chunk.css.map",
+    "static/js/2.4f41db85.chunk.js.LICENSE.txt": "/JustAlex322/learnReactm/static/js/2.4f41db85.chunk.js.LICENSE.txt",
+    "static/media/1488.372b42cf.gif": "/JustAlex322/learnReactm/static/media/1488.372b42cf.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39618a19.js",
+    "static/js/2.4f41db85.chunk.js",
+    "static/css/main.63f24810.chunk.css",
+    "static/js/main.ccf888a6.chunk.js"
+  ]
+}
